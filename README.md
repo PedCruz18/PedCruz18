@@ -1,7 +1,7 @@
 ## Olá! Me chamo Pedro Cruz.
 
 - ❤️‍🔥 Hoje procuro apenas me especializar na área da criação e conversção de meus programas Python(.py) para Executáveis(.exe).
-- 🪴 Estudando e iniciando a minha primeira linguagem, Python. (Senac, Campo Grande, Rio de Janeiro).
+- 🪴 Estudando e iniciando a minha primeira linguagem Python, no Senac, Campo Grande, Rio de Janeiro.
 - 📨 Contato: Pedroemanueldasilvacruz@gmail.com. 
 - 😄 Pronomes: Ele/Dele.
 
