@@ -9,8 +9,7 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PedCruz\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedCruz&layout=compact) <img align="center" alt="Rafa-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-                                                                                                    <img align="center" alt="Rafa-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedCruz&layout=compact) 
                                                                                                     
 ##
 Minhas Redes Sociais:
