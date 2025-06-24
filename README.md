@@ -32,13 +32,6 @@ Aqui estão algumas das minhas habilidades:
 <details>
 <summary>🔽 Click here to see in English</summary>
 
-<img width="100%" style="margin-bottom: 50px;" src="https://github.com/user-attachments/assets/557f84ae-df35-4b64-9bec-e0ba190d4f58"/>  
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Hello%2C+My+Name+is+Pedro+Cruz)](https://git.io/typing-svg)  
-<br>  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+a+Programming+Student)](https://git.io/typing-svg)
-
 * Constantly striving to be better than ever. 🔥  
 * Specialized in web development with Node.js and Python.  
 * Experienced with Flask and Django frameworks.  
