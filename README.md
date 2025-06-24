@@ -32,6 +32,7 @@ Aqui estão algumas das minhas habilidades:
 <details>
 <summary>🔽 Click here to see in English</summary>
 
+
 * Constantly striving to be better than ever. 🔥  
 * Specialized in web development with Node.js and Python.  
 * Experienced with Flask and Django frameworks.  
