@@ -65,7 +65,3 @@ Here are some of my skills:
 </p>
 
 </details>
-
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPedCruz18&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="Visitor count" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
