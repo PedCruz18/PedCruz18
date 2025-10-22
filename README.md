@@ -10,7 +10,7 @@ Sempre em constante evolução — não apenas como profissional, mas como criad
 ## 💡 Sobre mim
 
 - 🔥 Sempre buscando ser **melhor do que ontem** — em código, design e visão.  
-- 💻 Especialista em **desenvolvimento web** com **Node.js** e **Python**.  
+- 💻 Dedicação em **desenvolvimento web e automações** com **Node.js** e **Python**.  
 - 🧠 Experiência com os frameworks **Flask** e **Django**.  
 - ⚙️ Criação de **automações inteligentes em Python** para otimizar tarefas e processos.  
 - 🎨 Apaixonado por **UX, interfaces minimalistas e código limpo**.  
