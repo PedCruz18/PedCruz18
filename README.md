@@ -13,7 +13,8 @@ Sempre em constante evolução — não apenas como profissional, mas como criad
 - 💻 Dedicação em **desenvolvimento web e automações** com **Node.js** e **Python**.  
 - 🧠 Experiência com os frameworks **Flask** e **Django**.  
 - ⚙️ Criação de **automações inteligentes em Python** para otimizar tarefas e processos.  
-- 🧩 Habilidade e experiência diária com **Git**, **versionamento de código** e **GitHub Copilot** — apesar de ainda não ter trabalhado em equipe pelo GitHub, utilizo o ecossistema no meu fluxo de desenvolvimento cotidiano.  
+- 🗃️ Conhecimento em **SQL**, treinando e aplicando com **SQLite (db.lite)** nas aplicações.  
+- 🧩 Habilidade e prática diária com **versionamento Git**, **GitHub** e **GitHub Copilot** — embora ainda não tenha trabalhado em equipe na plataforma, aplico o versionamento e branches em meus projetos pessoais.  
 - 🎨 Apaixonado por **UX, interfaces minimalistas e código limpo**.  
 
 ---
@@ -26,6 +27,8 @@ Sempre em constante evolução — não apenas como profissional, mas como criad
   <img src="https://github.com/user-attachments/assets/e110a56d-679a-4e39-9f24-326b0e38be3b" width="50" height="50" alt="JavaScript"/>
   <img src="https://github.com/user-attachments/assets/54401109-ec6e-4109-aa0c-fb4a58fa65f1" width="50" height="50" alt="Python"/>
   <img src="https://github.com/user-attachments/assets/066ec464-724b-4e20-a393-f27201c51af2" width="50" height="50" alt="Node.js"/>
+  <img src="https://github.com/user-attachments/assets/d1d48e0b-3e36-4a08-8f7e-62b2d5b80812" width="50" height="50" alt="Git"/>
+  <img src="https://github.com/user-attachments/assets/1f55e92f-74a4-4a9a-a1a8-3db7cb4b9cc8" width="50" height="50" alt="SQLite"/>
 </p>
 
 ---
@@ -61,10 +64,11 @@ Always learning, always improving — creating digital experiences that combine 
 ## 💡 About me
 
 - 🔥 Constantly striving to be **better than yesterday**.  
-- 💻 Dedicated to **web development and automation** with **Node.js** and **Python**.  
+- 💻 Specialized in **web development** with **Node.js** and **Python**.  
 - 🧠 Experienced with **Flask** and **Django** frameworks.  
 - ⚙️ Creator of **Python automations** for smart task management and process optimization.  
-- 🧩 Skilled and experienced in daily use of **Git**, **version control**, and **GitHub Copilot** — although I haven’t yet collaborated on team projects via GitHub, I use its ecosystem actively in my daily workflow.  
+- 🗃️ Knowledge in **SQL**, training and applying with **SQLite (db.lite)** in my applications.  
+- 🧩 Skilled in **Git version control**, **GitHub**, and **GitHub Copilot** — I haven’t yet collaborated in a team repo, but I maintain personal projects with proper branching and commits.  
 - 🎨 Enthusiastic about **UX, minimal design, and clean code**.  
 
 ---
@@ -77,6 +81,8 @@ Always learning, always improving — creating digital experiences that combine 
   <img src="https://github.com/user-attachments/assets/e110a56d-679a-4e39-9f24-326b0e38be3b" width="50" height="50" alt="JavaScript"/>
   <img src="https://github.com/user-attachments/assets/54401109-ec6e-4109-aa0c-fb4a58fa65f1" width="50" height="50" alt="Python"/>
   <img src="https://github.com/user-attachments/assets/066ec464-724b-4e20-a393-f27201c51af2" width="50" height="50" alt="Node.js"/>
+  <img src="https://github.com/user-attachments/assets/d1d48e0b-3e36-4a08-8f7e-62b2d5b80812" width="50" height="50" alt="Git"/>
+  <img src="https://github.com/user-attachments/assets/1f55e92f-74a4-4a9a-a1a8-3db7cb4b9cc8" width="50" height="50" alt="SQLite"/>
 </p>
 
 ---
