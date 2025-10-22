@@ -45,15 +45,6 @@ Sempre em constante evolução — não apenas como profissional, mas como criad
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedcruz17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedcruz17&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 <details>
 <summary>🔽 Click here to see in English</summary>
 
@@ -100,15 +91,6 @@ Always learning, always improving — creating digital experiences that combine 
     <a href="./Curr_Pedro_Cruz.pdf" target="_blank" rel="noopener noreferrer">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/View%20Resume-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
     </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedcruz17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedcruz17&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 </details>
