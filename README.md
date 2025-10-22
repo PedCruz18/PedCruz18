@@ -31,15 +31,9 @@ Sempre em constante evolução — não apenas como profissional, mas como criad
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Veja meu Currículo
 
 <div align="center">
-    <a href="https://www.instagram.com/pedcruz_18?igsh=MXV2Z3JvNTViZXlsMA==" target="_blank" rel="noopener noreferrer">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/pedcruz17/" target="_blank" rel="noopener noreferrer">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
     <a href="./assets/Currículo PedCruz.pdf" target="_blank" rel="noopener noreferrer">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
     </a>
@@ -83,15 +77,9 @@ Always learning, always improving — creating digital experiences that combine 
 
 ---
 
-## 🌐 Social
+## 🌐 View my resume
 
 <div align="center">
-    <a href="https://www.instagram.com/pedcruz_18?igsh=MXV2Z3JvNTViZXlsMA==" target="_blank" rel="noopener noreferrer">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/pedcruz17/" target="_blank" rel="noopener noreferrer">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
     <a href="./assets/Currículo PedCruz.pdf" target="_blank" rel="noopener noreferrer">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/View%20Resume-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
     </a>
