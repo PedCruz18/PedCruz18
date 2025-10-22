@@ -38,7 +38,7 @@ Sempre em constante evolução — não apenas como profissional, mas como criad
     <a href="https://www.linkedin.com/in/pedcruz17/" target="_blank" rel="noopener noreferrer">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="./assets/Curr_Pedro_Cruz.pdf" target="_blank" rel="noopener noreferrer">
+    <a href="./assets/Currículo PedCruz.pdf" target="_blank" rel="noopener noreferrer">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
     </a>
 </div>
@@ -88,7 +88,7 @@ Always learning, always improving — creating digital experiences that combine 
     <a href="https://www.linkedin.com/in/pedcruz17/" target="_blank" rel="noopener noreferrer">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="./Curr_Pedro_Cruz.pdf" target="_blank" rel="noopener noreferrer">
+    <a href="./assets/Currículo PedCruz.pdf" target="_blank" rel="noopener noreferrer">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="120" src="https://img.shields.io/badge/View%20Resume-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
     </a>
 </div>
