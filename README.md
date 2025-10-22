@@ -27,8 +27,6 @@ Sempre em constante evolução — não apenas como profissional, mas como criad
   <img src="https://github.com/user-attachments/assets/e110a56d-679a-4e39-9f24-326b0e38be3b" width="50" height="50" alt="JavaScript"/>
   <img src="https://github.com/user-attachments/assets/54401109-ec6e-4109-aa0c-fb4a58fa65f1" width="50" height="50" alt="Python"/>
   <img src="https://github.com/user-attachments/assets/066ec464-724b-4e20-a393-f27201c51af2" width="50" height="50" alt="Node.js"/>
-  <img src="https://github.com/user-attachments/assets/d1d48e0b-3e36-4a08-8f7e-62b2d5b80812" width="50" height="50" alt="Git"/>
-  <img src="https://github.com/user-attachments/assets/1f55e92f-74a4-4a9a-a1a8-3db7cb4b9cc8" width="50" height="50" alt="SQLite"/>
 </p>
 
 ---
@@ -81,8 +79,6 @@ Always learning, always improving — creating digital experiences that combine 
   <img src="https://github.com/user-attachments/assets/e110a56d-679a-4e39-9f24-326b0e38be3b" width="50" height="50" alt="JavaScript"/>
   <img src="https://github.com/user-attachments/assets/54401109-ec6e-4109-aa0c-fb4a58fa65f1" width="50" height="50" alt="Python"/>
   <img src="https://github.com/user-attachments/assets/066ec464-724b-4e20-a393-f27201c51af2" width="50" height="50" alt="Node.js"/>
-  <img src="https://github.com/user-attachments/assets/d1d48e0b-3e36-4a08-8f7e-62b2d5b80812" width="50" height="50" alt="Git"/>
-  <img src="https://github.com/user-attachments/assets/1f55e92f-74a4-4a9a-a1a8-3db7cb4b9cc8" width="50" height="50" alt="SQLite"/>
 </p>
 
 ---
