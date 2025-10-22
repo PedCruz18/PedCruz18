@@ -13,6 +13,7 @@ Sempre em constante evolução — não apenas como profissional, mas como criad
 - 💻 Dedicação em **desenvolvimento web e automações** com **Node.js** e **Python**.  
 - 🧠 Experiência com os frameworks **Flask** e **Django**.  
 - ⚙️ Criação de **automações inteligentes em Python** para otimizar tarefas e processos.  
+- 🧩 Habilidade e experiência diária com **Git**, **versionamento de código** e **GitHub Copilot** — apesar de ainda não ter trabalhado em equipe pelo GitHub, utilizo o ecossistema no meu fluxo de desenvolvimento cotidiano.  
 - 🎨 Apaixonado por **UX, interfaces minimalistas e código limpo**.  
 
 ---
@@ -60,9 +61,10 @@ Always learning, always improving — creating digital experiences that combine 
 ## 💡 About me
 
 - 🔥 Constantly striving to be **better than yesterday**.  
-- 💻 Specialized in **web development** with **Node.js** and **Python**.  
+- 💻 Dedicated to **web development and automation** with **Node.js** and **Python**.  
 - 🧠 Experienced with **Flask** and **Django** frameworks.  
 - ⚙️ Creator of **Python automations** for smart task management and process optimization.  
+- 🧩 Skilled and experienced in daily use of **Git**, **version control**, and **GitHub Copilot** — although I haven’t yet collaborated on team projects via GitHub, I use its ecosystem actively in my daily workflow.  
 - 🎨 Enthusiastic about **UX, minimal design, and clean code**.  
 
 ---
